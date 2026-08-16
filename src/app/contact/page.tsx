@@ -106,8 +106,8 @@ Submitted from ClickCo website
             <p className="mt-3 text-muted">
               Your email client should open with a pre-filled message. Just hit send.
               If it didn’t open, write to us at{" "}
-              <a href="mailto:biggauravkumar@gmail.com" className="underline">
-                biggauravkumar@gmail.com
+              <a href="mailto:auggauravk@gmail.com" className="underline">
+                auggauravk@gmail.com
               </a>
             </p>
           </div>
