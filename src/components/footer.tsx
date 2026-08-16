@@ -31,11 +31,11 @@ export function Footer() {
               WhatsApp +91 92119 07631
             </a>
             <a
-              href="mailto:biggauravkumar@gmail.com"
+              href="mailto:auggauravk@gmail.com"
               className="flex items-center gap-2 text-muted hover:text-foreground transition"
             >
               <Mail size={15} />
-              biggauravkumar@gmail.com
+              auggauravk@gmail.com
             </a>
           </div>
 
