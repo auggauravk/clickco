@@ -50,7 +50,7 @@ Submitted from ClickCo website
     `.trim();
 
     try {
-      const mailtoLink = `mailto:biggauravkumar@gmail.com?subject=${encodeURIComponent(
+      const mailtoLink = `mailto:auggauravk@gmail.com?subject=${encodeURIComponent(
         `New Inquiry from ${name} – ${service}`
       )}&body=${encodeURIComponent(body)}`;
 
@@ -92,7 +92,7 @@ Submitted from ClickCo website
             Call
           </a>
           <a
-            href="mailto:biggauravkumar@gmail.com"
+            href="mailto:auggauravk@gmail.com"
             className="inline-flex items-center gap-2 rounded-full border border-border px-5 py-2.5 text-sm font-medium hover:bg-border/30 transition"
           >
             <Mail size={16} />
